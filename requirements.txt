@@ -3,3 +3,5 @@ numpy
 scikit-learn
 gradio
 joblib
+seaborn
+matplotlib
