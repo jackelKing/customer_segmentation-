@@ -1,6 +1,9 @@
 # customer_segmentation
 # 🛍️ Mall Customer Segmentation & Spending Predictor
 
+WORKING LINK:
+https://customer-segmentation-1-ghph.onrender.com
+
 This project is a **Streamlit web app** that performs **customer segmentation** using **K-Means clustering** and predicts **customer spending scores** using a regression model.  
 It allows businesses to profile customers based on **Age** and **Annual Income**, and visualize clusters in both **2D** and **3D**.
 
