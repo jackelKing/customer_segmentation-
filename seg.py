@@ -11,7 +11,7 @@ from mpl_toolkits.mplot3d import Axes3D
 # Load and prepare data
 # ----------------------------
 data = pd.read_csv(
-    r"C:\Users\premr\.cache\kagglehub\datasets\vjchoudhary7\customer-segmentation-tutorial-in-python\versions\1\Mall_Customers.csv"
+    r"Mall_Customers.csv"
 )
 
 X = data[['Age', 'Annual Income (k$)', 'Spending Score (1-100)']]
@@ -99,3 +99,4 @@ iface = gr.Interface(
 
 if __name__ == "__main__":
     iface.launch()
+
